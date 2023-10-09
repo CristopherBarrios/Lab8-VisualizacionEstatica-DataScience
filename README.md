@@ -8,4 +8,5 @@ Creado por:
 
 [Instrucciones](./instrucciones/Laboratorio8.pdf)
 
+[Visualizacion](./visualizacion/eleciones.pdf)
 [.ipynb - Codigo](./VisualizacionEstatica.ipynb)
